@@ -46,7 +46,7 @@
             </ul>
         </div>
       <a href="#" class="btn-custom px-4 py-2 mx-2">Ingresar a la Inscripción</a>
-      <a href="#" class="btn-custom px-4 py-2 mx-2">Ingresar a la Planilla</a>
+      <a href="#" class="btn-custom px-4 py-2 mx-2">Ingresar a la plan</a>
     </div>
   </div>
 
